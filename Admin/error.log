@@ -1,0 +1,1 @@
+[Fri May 29 15:56:24.006342 2020] [php7:error] [pid 11480:tid 1964] [client 127.0.0.1:61841] PHP Fatal error:  Cannot redeclare App\\Http\\Controllers\\HomeController::ftjobs() in C:\\xampp\\htdocs\\jobfinder.com\\Admin\\app\\Http\\Controllers\\HomeController.php on line 61, referer: http://admin.jobfinder.com/ptjobs
